@@ -4,9 +4,9 @@ This repository - currently being populated - houses some of my machine learning
 
 ## Kinds of Mobile Strategy Games
 
-There are more than a hundred thousand strategy games on the app store, more than any human can understand and summarize. A game developer may want to know about the kinds of games available to inform game design, marketing, and pricing. I find that there are 8 main kinds of strategy games on the app store. I find this using:
+There are more than a hundred thousand strategy games on the app store, more than any human can understand and summarize. A game developer may want to know about the kinds of games available to inform game design, marketing, and pricing. I find that there are 8 main kinds of strategy games on the app store. I find this by performing natural language processing analyses on the text descriptions of these games, specifically using: 
 
-* Word embeddings
+* Word embeddings (spacy)
 * Dimensionality reduction (using a new neural network-based technique: Ivis) 
 * Clustering (kmeans++)
 
