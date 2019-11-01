@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository - currently being populated - houses some of my machine learning projects. I also use machine learning in many of my publications such as https://link.springer.com/article/10.3758/s13428-019-01235-z (un-paywalled link: https://psyarxiv.com/arf4t)
+This repository houses some of my machine learning projects. I also use machine learning in many of my publications (https://link.springer.com/article/10.3758/s13428-019-01235-z ; free version https://psyarxiv.com/arf4t).
 
 ## Kinds of Mobile Strategy Games
 
