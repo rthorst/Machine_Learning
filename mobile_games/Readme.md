@@ -27,7 +27,7 @@ I **build a model** to learn the types of games that already exist. I do this by
 
 ## Techniques
 
-I use **several machine learning techniques** including:
+I use **several machine learning techniques** in Python including:
 
 * **Word embeddings** (to represent text in terms of its high-level semantics)
 * **Dimensionality reduction** (using a new **neural-network based techinque: Ivis** https://www.nature.com/articles/s41598-019-45301-0)
